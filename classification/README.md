@@ -1,0 +1,2 @@
+## Sceanrios
+One of the scenarios that I have worked recently with an Agri-Tech based startup is crop disease detection. The basic idea is to train an image classification model based on existing crop data to identify the kind of disease a crop may be infected with. This data is publically available even in kaggale.
